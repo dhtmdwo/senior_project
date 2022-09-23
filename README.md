@@ -1,1 +1,1 @@
-# senior_project
+# This is our senior project
